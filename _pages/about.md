@@ -13,7 +13,7 @@ at the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart
 My research interests lie in the intersection of language-and-vision and commonsense knowledge acquisition/reasoning.
 My primary research goal is to extract commonsense knowledge from visual data to support knowledge-intensive reasoning tasks.
 
-Before pursuing my doctoral degree, I completed my master thesis at the [Bosch Center for Artificial Intelligence](BCAI)(https://www.bosch-ai.com/) under the guidence of [Dr. Hendrik Schuff](https://scholar.google.de/citations?user=UzUVKbAAAAAJ&hl=de) and [Dr. Heike Adel](https://sites.google.com/view/heikeadel/home).
+Before pursuing my doctoral degree, I completed my master thesis at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/)(BCAI) under the guidence of [Dr. Hendrik Schuff](https://scholar.google.de/citations?user=UzUVKbAAAAAJ&hl=de) and [Dr. Heike Adel](https://sites.google.com/view/heikeadel/home).
 
 
 News
