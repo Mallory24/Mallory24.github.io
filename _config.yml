@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Doctoral Researcher"
   location         : "Stuttgart, Germany"
-  employer         : "University of Stuttgart, Institute "
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "University of Stuttgart "
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?hl=en&user=rNJOHuQAAAAJ&view_op=list_works&gmla=AH70aAWYDYKpAvt6iATYTs4dvVLuqzIUoFzQsxnNn-HP8ceOET8b89EqRWIM4LNCij5GI2gXadk6Y6ddpxV_nS9l"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hsiu-yu-yang-b79b75110/"
+  linkedin         : "https://www.linkedin.com/in/hsiu-yu-yang/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -127,7 +127,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .jekyll-assets-cache
+  - .jekyll-assets-cachef
   - .sass-cache
   - CHANGELOG
   - Capfile
