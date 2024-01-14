@@ -13,13 +13,13 @@ at the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart
 My research interests lie in the intersection of language-and-vision and commonsense knowledge acquisition/reasoning.
 My primary research goal is to extract commonsense knowledge from visual data to support knowledge-intensive reasoning tasks.
 
-Before 
+Before pursuing my doctoral degree, I completed my master thesis at the [Bosch Center for Artificial Intelligence](BCAI)(https://www.bosch-ai.com/) under the guidence of [Dr. Hendrik Schuff](https://scholar.google.de/citations?user=UzUVKbAAAAAJ&hl=de) and [Dr. Heike Adel](https://sites.google.com/view/heikeadel/home).
 
 
 News
 ======
-* [1-4.11.2023] 🎙️Presenting accepted paper at IJCNLP-AACL 2023 (Bali, Indonesia)
-* [12-17.10.2022] 🎙️Presenting accepted paper at COLING 2022 (Gyeongju, Republic of Korea)
+* [04.11.2023] 🎙️Presenting the [accepted paper](https://mallory24.github.io/publication/cae_IJCNLP_AACL_2023) at IJCNLP-AACL 2023 (Bali, Indonesia)
+* [12.10.2022] 🎙️(Online) Presenting the [accepted paper](https://mallory24.github.io/publication/cs_probing_COLING_2002) at COLING 2022 (Gyeongju, Republic of Korea)
 
 
 Publications
