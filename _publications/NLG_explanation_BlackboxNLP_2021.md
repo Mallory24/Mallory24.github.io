@@ -4,7 +4,7 @@ collection: publications
 permalink: publication/NLG_explanation_BlackboxNLP_2021
 excerpt: Hendrik Schuff, **Hsiu-Yu Yang**, Heike Adel, and Ngoc Thang Vu
 date: 2021-11-07
-venue: 'The 4th BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (COLING)'
+venue: 'the 4th BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (COLING)'
 paperurl: 'https://aclanthology.org/2021.blackboxnlp-1.3/'
 
 [//]: # (citation: 'Your Name, You. &#40;2009&#41;. &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1&#40;1&#41;.')

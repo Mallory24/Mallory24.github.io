@@ -4,7 +4,7 @@ collection: publications
 permalink: publication/cae_IJCNLP_AACL_2023
 excerpt: '**Hsiu-Yu Yang** and Carina Silberer'
 date: 2023-11-01
-venue: 'The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL)'
+venue: 'the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL)'
 paperurl: 'https://arxiv.org/abs/2312.11345'
 
 [//]: # (citation: 'Your Name, You. &#40;2009&#41;. &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1&#40;1&#41;.')

@@ -4,7 +4,7 @@ collection: publications
 permalink: publication/cs_probing_COLING_2002
 excerpt: '**Hsiu-Yu Yang** and Carina Silberer'
 date: 2022-10-12
-venue: 'The 29th International Conference on Computational Linguistics (COLING)'
+venue: 'the 29th International Conference on Computational Linguistics (COLING)'
 paperurl: 'https://aclanthology.org/2022.coling-1.491/'
 
 [//]: # (citation: 'Your Name, You. &#40;2009&#41;. &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1&#40;1&#41;.')
