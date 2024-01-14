@@ -2,7 +2,7 @@
 title: "HNC: Leveraging Hard Negative Captions towards Models with Fine-Grained Visual-Linguistic Comprehension Capabilities"
 collection: publications
 permalink: /publication/HNC_CoNLL_2023
-excerpt: 'Esra Dönmez*, Pascal Tilli*, **Hsiu-Yu Yang***, Ngoc Thang Vu, Carina Silberer (*=equal contribution)'
+excerpt: 'Esra Dönmez\*, Pascal Tilli\*, **Hsiu-Yu Yang**, Ngoc Thang Vu, Carina Silberer (\*=equal contribution)'
 date: 2023-12-06
 venue: 'the 27th Conference on Computational Natural Language Learning (CoNLL)'
 paperurl: 'https://aclanthology.org/2023.conll-1.24/'
